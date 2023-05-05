@@ -52,7 +52,7 @@
         </div>
         <ul id="grids">
           <li class="grid">
-            <a href="https://ryo19861210.github.io/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/トレーナーサイト写真.jpg"></a>
+            <a href="https://ryo19861210.github.io/ryota_nishikawa.github.io/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/トレーナーサイト写真.jpg"></a>
           </li>
           <!-- <li class="grid">
             <a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/レストランサイト画像.jpg"></a>
